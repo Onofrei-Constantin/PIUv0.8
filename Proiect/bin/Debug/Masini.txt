@@ -1,0 +1,2 @@
+1;popa;andrei;bmw m3;2010;10.20.1010;10000;CutieAutomata;Alb
+2;iulian;onofrei;audi a5;2020;10.202.1010;5000;AerConditionat;Rosu

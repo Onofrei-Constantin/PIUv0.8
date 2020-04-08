@@ -1,0 +1,7 @@
+C:\Users\viper\Documents\GitHub\PIU\Proiect\bin\Debug\Proiect.exe.config
+C:\Users\viper\Documents\GitHub\PIU\Proiect\bin\Debug\Proiect.exe
+C:\Users\viper\Documents\GitHub\PIU\Proiect\bin\Debug\Proiect.pdb
+C:\Users\viper\Documents\GitHub\PIU\Proiect\obj\Debug\Proiect.csprojAssemblyReference.cache
+C:\Users\viper\Documents\GitHub\PIU\Proiect\obj\Debug\Proiect.csproj.CoreCompileInputs.cache
+C:\Users\viper\Documents\GitHub\PIU\Proiect\obj\Debug\Proiect.exe
+C:\Users\viper\Documents\GitHub\PIU\Proiect\obj\Debug\Proiect.pdb
