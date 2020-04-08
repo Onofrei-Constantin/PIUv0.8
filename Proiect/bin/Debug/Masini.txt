@@ -1,2 +1,3 @@
-1;popa;andrei;bmw m3;2010;10.20.1010;10000;CutieAutomata;Alb
-2;iulian;onofrei;audi a6;2020;10.202.1010;5000;AerConditionat;Rosu
+1;iulian;popa;audi a4;2007;20.5.2019;4500;CutieAutomata;Alb
+2;andrei;vieru;audi a4;2007;25.3.2018;4500;CutieAutomata;Alb
+3;viorela;bocanci;vw golf iv;2010;10.25.2020;5000;AerConditionat;Rosu

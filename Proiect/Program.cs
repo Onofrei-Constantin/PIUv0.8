@@ -89,6 +89,7 @@ namespace Proiect
                             adminMasini.AddMasina(masinaModificare[i]);
                         }
                         AfisareMasini(masinaModificare, nrMasini);
+                        masini = masinaModificare;
                         break;
                     case "C":
                         Masina[] masinaComparare = new Masina[2];
